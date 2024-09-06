@@ -1,0 +1,557 @@
+div{
+    height:100px;
+    width:100px;
+    display:inline-block;
+    border-radius: 5px;
+    margin:2px;
+    transition-property: all;
+    transition-duration: 0.2s;
+}
+
+
+#minusone{
+    background-color: GoldenRod;
+   }
+   #zero{
+       background-color: rgb(218, 58, 10);
+      }
+      #one{
+       background-color: FireBrick;
+      }
+      #two{
+       background-color: Fuchsia;
+      }
+      #three{
+       background-color: DodgerBlue;
+      }
+      #four{
+       background-color: DarkSeaGreen;
+      }
+      #five{
+       background-color: DarkKhaki;
+      }
+      #six{
+       background-color: rgb(229, 186, 13);
+      }
+      #seven{
+       background-color: Coral;
+      }
+      #eight{
+       background-color: BlueViolet;
+      }
+      #nine{
+       background-color: Black;
+      }
+      #ten{
+       background-color: rgb(15, 227, 121);
+      }
+      #eleven{
+       background-color: aqua;
+      }
+      #twelve{
+       background-color: Blue;
+      }
+      #thirteen{
+       background-color: rgba(143, 236, 12, 0.802);
+      }
+      #fourteen{
+       background-color: Brown;
+      }
+      #fifteen{
+       background-color: Cyan;
+      }
+      #sixteen{
+       background-color: DarkGreen;
+      }
+      #seventeen{
+       background-color: DarkMagenta;
+      }
+      #eighteen{
+       background-color: DarkSalmon;
+      }
+      #nineteen{
+       background-color: DarkTurquoise;
+      }
+      #twenty{
+       background-color: rgb(31, 9, 201);
+      }
+      #twentyone{
+       background-color: rgb(228, 15, 18);
+      }
+      #twentytwo{
+       background-color: LightCoral;
+      }
+      #twentythree{
+       background-color: Lime;
+      }
+      #twentyfour{
+       background-color: rgb(14, 234, 113);
+      }
+      #twentyfive{
+       background-color: Maroon;
+      }
+      #twentysix{
+       background-color: MediumSlateBlue;
+      }
+      #twentyseven{
+       background-color: MediumSpringGreen;
+      }
+      #twentyeight{
+       background-color: rgb(233, 166, 9);
+      }
+      #twentynine{
+       background-color: green;
+      }
+      #thirty{
+       background-color: rgb(233, 35, 14);
+      }
+      #thirtyone{
+       background-color: Olive;
+      }
+      #thirtytwo{
+       background-color: Orange;
+      }
+      #thirtythree{
+       background-color: pink;
+      }
+      #thirtyfour{
+       background-color: yellow;
+      }
+      #thirtyfive{
+       background-color: mediumvioletred;
+      }
+      #thirtysix{
+       background-color: gray;
+      }
+      #thirtyseven{
+       background-color: chocolate;
+      }
+      #thirtyeight{
+       background-color: rgb(75, 11, 195);
+      }
+      #thirtynine{
+       background-color: rgb(12, 92, 196);
+      }
+      #forty{
+       background-color: rgb(249, 12, 79);
+      }
+      #fortyone{
+       background-color: rgb(232, 7, 30);
+      }
+      #fortytwo{
+       background-color: rgb(15, 240, 75);
+      }
+      #fortythree{
+       background-color: darkmagenta;
+      }
+      #fortyfour{
+       background-color: khaki;
+      }
+      #fortyfive{
+       background-color: black;
+      }
+      #fortysix{
+       background-color: hotpink;
+      }
+      #fortyseven{
+       background-color: firebrick;
+      }
+      #fortyeight{
+       background-color: seagreen;
+      }
+      #fortynine{
+       background-color: rgb(14, 154, 241);
+      }
+      #fifty{
+       background-color: red;
+      }
+      #fiftyone{
+       background-color: rgb(233, 166, 9);
+      }
+      #fiftytwo{
+       background-color: green;
+      }
+      #fiftythree{
+       background-color: rgb(233, 35, 14);
+      }
+      #fiftyfour{
+       background-color: Olive;
+      }
+      #fiftyfive{
+       background-color: Orange;
+      }
+      #fiftysix{
+       background-color: rgb(229, 186, 13);
+      }
+      #fiftyseven{
+       background-color: Coral;
+      }
+      #fiftyeight{
+       background-color: BlueViolet;
+      }
+      #fiftynine{
+       background-color: Black;
+      }
+      #sixty{
+       background-color: rgb(15, 227, 121);
+      }
+      #sixtyone{
+       background-color: rgb(232, 7, 30);
+      }
+      #sixtytwo{
+       background-color: rgb(15, 240, 75);
+      }
+      #sixtythree{
+       background-color: darkmagenta;
+      }
+      #sixtyfour{
+       background-color: khaki;
+      }
+      #sixtyfive{
+       background-color: black;
+      }
+      #sixtysix{
+       background-color: gray;
+      }
+      #sixtyseven{
+       background-color: chocolate;
+      }
+      #sixtyeight{
+       background-color: rgb(75, 11, 195);
+      }
+      #sixtynine{
+       background-color: rgb(12, 92, 196);
+      }
+      #seventy{
+       background-color: rgb(249, 12, 79);
+      }
+
+
+
+
+
+
+#minusone:hover{
+ background-color: aqua;
+
+ transform: rotate(180deg);
+}
+#zero:hover{
+    background-color: Black;
+    
+    transform: rotate(180deg);
+   }
+   #one:hover{
+    background-color: Blue;
+    
+    transform: rotate(180deg);
+   }
+   #two:hover{
+    background-color: Brown;
+   
+    transform: rotate(180deg);
+   }
+   #three:hover{
+    background-color: BlueViolet;
+    
+    transform: rotate(180deg);
+   }
+   #four:hover{
+    background-color: Chocolate;
+    
+    transform: rotate(180deg);
+   }
+   #five:hover{
+    background-color: Cyan;
+ 
+    transform: rotate(180deg);
+   }
+   #six:hover{
+    background-color:coral;
+   
+    transform: rotate(180deg);
+   }
+   #seven:hover{
+    background-color: DarkGreen;
+    
+    transform: rotate(180deg);
+   }
+   #eight:hover{
+    background-color: DarkKhaki;
+   
+    transform: rotate(180deg);
+    }
+   #nine:hover{
+    background-color: DarkMagenta;
+   
+    transform: rotate(180deg);
+   }
+   #ten:hover{
+    background-color:DarkSalmon;
+ 
+    transform: rotate(180deg);
+   }
+   #eleven:hover{
+    background-color: DarkSeaGreen;
+   
+    transform: rotate(180deg);
+   }
+   #twelve:hover{
+    background-color: DarkTurquoise;
+   
+    transform: rotate(180deg);
+   }
+   #thirteen:hover{
+    background-color:DodgerBlue;
+   
+    transform: rotate(180deg);
+   }
+   #fourteen:hover{
+    background-color: FireBrick;
+  
+    transform: rotate(180deg);
+   }
+   #fifteen:hover{
+    background-color: Fuchsia;
+    
+    transform: rotate(180deg);
+   }
+   #sixteen:hover{
+    background-color: GoldenRod;
+  
+    transform: rotate(180deg);
+   }
+   #seventeen:hover{
+    background-color: Gray;
+  
+    transform: rotate(180deg);
+   }
+   #eighteen:hover{
+    background-color: green;
+ 
+    transform: rotate(180deg);
+   }
+   #nineteen:hover{
+    background-color: HotPink;
+  
+    transform: rotate(180deg);
+   }
+   #twenty:hover{
+    background-color: khaki;
+   
+    transform: rotate(180deg);
+   }
+   #twentyone:hover{
+    background-color:lime;
+    
+    transform: rotate(180deg);
+   }
+   #twentytwo:hover{
+    background-color: maroon;
+  
+    transform: rotate(180deg);
+   }
+   #twentythree:hover{
+    background-color:LightCoral;
+    
+    transform: rotate(180deg);
+   }
+   #twentyfour:hover{
+    background-color: MediumSlateBlue;
+   
+    transform: rotate(180deg);
+   }
+   #twentyfive:hover{
+    background-color: MediumVioletRed;
+   
+    transform: rotate(180deg);
+   }
+   #twentysix:hover{
+    background-color: Olive;
+   
+    transform: rotate(180deg);
+   }
+   #twentyseven:hover{
+    background-color: orange;
+    
+    transform: rotate(180deg);
+   }
+   #twentyeight:hover{
+    background-color:pink;
+   
+    transform: rotate(180deg);
+   }
+   #twentynine:hover{
+    background-color: red;
+    
+    transform: rotate(180deg);
+   }
+   #thirty:hover{
+    background-color: Yellow;
+    
+    transform: rotate(180deg);
+   }
+   #thirtyone:hover{
+    background-color: rgb(14, 154, 241);
+    
+    transform: rotate(180deg);
+   }
+   #thirtytwo:hover{
+    background-color: rgb(12, 92, 196);
+    
+    transform: rotate(180deg);
+   }
+   #thirtythree:hover{
+    background-color: rgb(14, 234, 113);
+    
+    transform: rotate(180deg);
+   }
+   #thirtyfour:hover{
+    background-color: rgb(15, 227, 121);
+
+    transform: rotate(180deg);
+   }
+   #thirtyfive:hover{
+    background-color: rgb(15, 240, 75);
+    transform: rotate(180deg);
+   }
+   #thirtysix:hover{
+    background-color: rgb(31, 9, 201);
+    transform: rotate(180deg);
+   }
+   #thirtyseven:hover{
+    background-color: rgb(75, 11, 195);
+    transform: rotate(180deg);
+   }
+   #thirtyeight:hover{
+    background-color: rgb(218, 58, 10);
+    transform: rotate(180deg);
+   }
+   #thirtynine:hover{
+    background-color: rgb(228, 15, 18);
+    transform: rotate(180deg);
+   }
+   #forty:hover{
+    background-color: rgba(143, 236, 12, 0.802);
+    transform: rotate(180deg);
+   }
+   #fortyone:hover{
+    background-color: HotPink;
+    transform: rotate(180deg);
+   }
+   #fortytwo:hover{
+    background-color: Coral;
+    transform: rotate(180deg);
+   }
+   #fortythree:hover{
+    background-color: yellow;
+    transform: rotate(180deg);
+   }
+   #fortyfour:hover{
+    background-color: firebrick;
+    transform: rotate(180deg);
+   }
+   #fortyfive:hover{
+    background-color: BlueViolet;
+    transform: rotate(180deg);
+   }
+   #fortysix:hover{
+    background-color: Chocolate;
+    transform: rotate(180deg);
+   }
+   #fortyseven:hover{
+    background-color: DarkGreen;
+    transform: rotate(180deg);
+   }
+   #fortyeight:hover{
+    background-color: rgb(10, 166, 233);
+    transform: rotate(180deg);
+   }
+   #fortynine:hover{
+    background-color: rgb(63, 241, 14);
+    transform: rotate(180deg);
+   }
+   #fifty:hover{
+    background-color: blue;
+    transform: rotate(180deg);
+   }
+   #fiftyone:hover{
+    background-color: rgb(87, 9, 233);
+    transform: rotate(180deg);
+   }
+   #fiftytwo:hover{
+    background-color: red;
+    transform: rotate(180deg);
+   }
+   #fiftythree:hover{
+    background-color: black;
+    transform: rotate(180deg);
+   }
+   #fiftyfour:hover{
+    background-color: hotpink;
+    transform: rotate(180deg);
+   }
+   #fiftyfive:hover{
+    background-color: magenta;
+    transform: rotate(180deg);
+   }
+   #fiftysix:hover{
+    background-color: mediumaquamarine;
+    transform: rotate(180deg);
+   }
+   #fiftyseven:hover{
+    background-color: khaki;
+    transform: rotate(180deg);
+   }
+   #fiftyeight:hover{
+    background-color: rgb(249, 12, 79);
+    transform: rotate(180deg);
+   }
+   #fiftynine:hover{
+    background-color: aqua;
+    transform: rotate(180deg);
+   }
+   #sixty:hover{
+    background-color: darkgreen;
+    transform: rotate(180deg);
+   }
+   #sixtyone:hover{
+    background-color: rgb(20, 10, 156);
+    transform: rotate(180deg);
+   }
+   #sixtytwo:hover{
+    background-color: rgb(207, 178, 15);
+    transform: rotate(180deg);
+   }
+   #sixtythree:hover{
+    background-color: rgb(53, 192, 14);
+    transform: rotate(180deg);
+   }
+   #sixtyfour:hover{
+    background-color: rgb(232, 6, 6);
+    transform: rotate(180deg);
+   }
+   #sixtyfive:hover{
+    background-color: white;
+    transform: rotate(180deg);
+   }
+   #sixtysix:hover{
+    background-color: green;
+    transform: rotate(180deg);
+   }
+   #sixtyseven:hover{
+    background-color: black;
+    transform: rotate(180deg);
+   }
+   #sixtyeight:hover{
+    background-color: brown;
+    transform: rotate(180deg);
+   }
+   #sixtynine:hover{
+    background-color: chocolate;
+    transform: rotate(180deg);
+   }
+   #seventy:hover{
+    background-color: yellow;
+    transform: rotate(180deg);
+   }
